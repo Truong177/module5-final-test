@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productCode": "PROD-0001",
+      "name": "Omega",
+      "categoryId": 1,
+      "price": 598000,
+      "quantity": 1000,
+      "dateAdded": "2024-08-28",
+      "description": "Thuốc"
+    },
+    {
+      "id": 2,
+      "productCode": "PROD-0002",
+      "name": "Máy đo huyết áp",
+      "categoryId": 2,
+      "price": 13500000,
+      "quantity": 500,
+      "dateAdded": "2024-08-25",
+      "description": "Máy"
+    },
+    {
+      "id": 3,
+      "productCode": "PROD-0003",
+      "name": "Efferalgan",
+      "categoryId": 3,
+      "price": 30000,
+      "quantity": 65,
+      "dateAdded": "2024-08-25",
+      "description": "Thuốc"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Thực phẩm chức năng"
+    },
+    {
+      "id": 2,
+      "name": "Thiết bị y tế"
+    },
+    {
+      "id": 3,
+      "name": "Dược phẩm"
+    }
+  ]
+}
